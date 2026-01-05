@@ -4,7 +4,7 @@ setup(
     name='src',
     packages=find_packages(),
     version='0.1.0',
-    description='This project will help reccomend the top 3 food items on swiggy homepage.',
+    description='This project will help recommend the top 3 food items on swiggy homepage.',
     author='Vijay Chaudhari',
     license='',
 )
